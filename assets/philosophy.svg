@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee and cat philosophy</title>
+  <desc id="desc">A curious black cat sits beside a warm cup of coffee and a playful thought bubble.</desc>
+  <rect width="600" height="600" fill="#e5d7ae"/>
+  <circle cx="300" cy="285" r="205" fill="#f1e8d2"/>
+  <path d="M136 254 170 150l79 61q49-19 99 0l80-61 35 104-17 149q-58 79-146 79t-146-79z" fill="#252724"/>
+  <path d="m169 170 49 58-59-20zm262 0-49 58 59-20z" fill="#c7402f"/>
+  <path d="M200 292q26-25 52 0l-4 37q-25 19-48 0zm148 0q26-25 52 0l0 37q-23 19-48 0z" fill="#e5b657"/>
+  <ellipse cx="227" cy="310" rx="5" ry="12" fill="#202321"/>
+  <ellipse cx="375" cy="310" rx="5" ry="12" fill="#202321"/>
+  <path d="m285 347 15-10 15 10-15 13z" fill="#c7402f"/>
+  <path d="M300 358q-19 26-38 0m38 0q19 26 38 0" fill="none" stroke="#f1e8d2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M190 396q35 23 70 0m50 0q35 23 70 0" fill="none" stroke="#f1e8d2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 437h91q17 0 17 17v22q0 17-17 17h-9l-12 19-12-19H80q-17 0-17-17v-22q0-17 17-17z" fill="#c7402f"/>
+  <text x="126" y="475" fill="#f5f0e8" font-family="Arial,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">MEOW?</text>
+  <path d="M423 387h93q17 0 17 17v24q0 17-17 17h-35l-13 18-13-18h-32q-17 0-17-17v-24q0-17 17-17z" fill="#d3a857"/>
+  <text x="469" y="417" fill="#202321" font-family="monospace" font-size="11" text-anchor="middle">THINK</text>
+  <text x="469" y="433" fill="#202321" font-family="monospace" font-size="11" text-anchor="middle">ABOUT IT.</text>
+  <path d="M266 531h69v-19q0-17-17-17h-35q-17 0-17 17z" fill="#835b3e"/>
+  <path d="M335 518q38-3 21 32h-21" fill="none" stroke="#835b3e" stroke-width="9"/>
+  <path d="M281 487q-21-27 2-48m20 48q-21-27 2-48" fill="none" stroke="#835b3e" stroke-width="3" stroke-linecap="round"/>
+</svg>

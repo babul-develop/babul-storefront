@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmic art pin</title>
+  <desc id="desc">A colorful circular cosmic art pin with a smiling sun, moon, stars, and a gold edge.</desc>
+  <rect width="600" height="600" fill="#d9e0d6"/>
+  <circle cx="300" cy="304" r="205" fill="#d3a857"/>
+  <circle cx="300" cy="288" r="193" fill="#f5f0e8" stroke="#202321" stroke-width="7"/>
+  <circle cx="300" cy="288" r="165" fill="#c7402f"/>
+  <circle cx="300" cy="288" r="137" fill="none" stroke="#f5f0e8" stroke-width="2" stroke-dasharray="3 9"/>
+  <circle cx="300" cy="288" r="89" fill="#e5b657"/>
+  <path d="M270 282q13-15 26 0v14q-13 12-26 0zm36 0q13-15 26 0v14q-13 12-26 0z" fill="#202321"/>
+  <path d="M281 325q19 15 38 0" fill="none" stroke="#202321" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#f5f0e8">
+    <path d="m213 204 9 18 20 3-15 14 4 20-18-10-18 10 4-20-15-14 20-3z"/>
+    <path d="m395 335 7 14 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z"/>
+  </g>
+  <circle cx="390" cy="209" r="8" fill="#202321"/>
+  <circle cx="227" cy="368" r="6" fill="#202321"/>
+  <path d="M249 465h102" stroke="#202321" stroke-width="3"/>
+  <text x="300" y="496" fill="#202321" font-family="monospace" font-size="13" letter-spacing="5" text-anchor="middle">COSMIC ART</text>
+</svg>

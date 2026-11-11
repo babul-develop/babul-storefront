@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Flow and movement</title>
+  <desc id="desc">Abstract flowing figures in teal, coral, and cream, evoking graceful movement.</desc>
+  <rect width="600" height="600" fill="#ccd3bd"/>
+  <circle cx="300" cy="300" r="222" fill="none" stroke="#65796d" stroke-width="2" stroke-dasharray="5 9"/>
+  <path d="M180 442c87-70 45-152 133-245 25-26 51-40 91-50-19 45-16 76 14 105-83 19-111 58-112 130-1 34 16 67 53 89-67 13-127 4-179-29z" fill="#3c7069"/>
+  <path d="M145 305c51-39 89-39 129 1 38 39 69 43 128 11-35 70-79 98-132 80-50-18-82-73-143-92z" fill="#c7402f"/>
+  <path d="M252 474c42-39 41-77 12-119-26-37-15-79 25-116-7 57 17 81 54 103 41 24 55 65 35 112-30-45-72-45-126 20z" fill="#eadfc5"/>
+  <circle cx="303" cy="178" r="17" fill="#e2ae57"/>
+  <path d="M285 178h36m-18-18v36" stroke="#202321" stroke-width="3"/>
+  <text x="300" y="549" fill="#364b43" font-family="monospace" font-size="12" letter-spacing="5" text-anchor="middle">FIND YOUR FLOW</text>
+</svg>

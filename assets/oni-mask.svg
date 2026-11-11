@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Oni mask</title>
+  <desc id="desc">Stylized Japanese Oni-inspired mask, with scarlet, cream, and charcoal shapes.</desc>
+  <rect width="600" height="600" fill="#e8cdb8"/>
+  <circle cx="300" cy="300" r="221" fill="none" stroke="#c7402f" stroke-width="2" stroke-dasharray="4 11"/>
+  <path d="M160 207 204 126l51 48q45-18 90 0l51-48 44 81 28 102-23 120-73 77-72 28-72-28-73-77-23-120z" fill="#c7402f"/>
+  <path d="m204 151 24 48-31-13zm192 0-24 48 31-13z" fill="#f5f0e8"/>
+  <path d="m190 254 109-40-16 30 24-7-32 39zm220 0-109-40 16 30-24-7 32 39z" fill="#f4e3c9"/>
+  <path d="M205 275q42-31 85 0l-15 58q-38 24-70-3zm105 0q42-31 85 0l-1 55q-32 27-70 3z" fill="#252522"/>
+  <path d="M225 278q25-10 46 1l-9 20q-22 9-37-4zm104 1q21-11 46-1l0 17q-15 13-37 4z" fill="#f5f0e8"/>
+  <path d="m300 337-34 42 34 19 34-19z" fill="#f5f0e8"/>
+  <path d="M233 400q67 42 134 0l-31 81-36 25-36-25z" fill="#f5f0e8"/>
+  <path d="m259 412 10 46m23-40v55m23-55v55m23-55-10 40" stroke="#c7402f" stroke-width="6"/>
+  <path d="M141 299h37m244 0h37M300 95v30m0 378v30" stroke="#202321" stroke-width="3"/>
+  <path d="m114 150 10 20 22 3-16 15 4 22-20-10-19 10 4-22-16-15 22-3z" fill="#f5f0e8"/>
+  <text x="300" y="557" fill="#202321" font-family="monospace" font-size="12" letter-spacing="6" text-anchor="middle">BOLD ONI MASK</text>
+</svg>

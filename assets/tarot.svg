@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Celestial tarot</title>
+  <desc id="desc">A sun, crescent moon, and star in a vintage-inspired tarot card frame.</desc>
+  <rect width="600" height="600" fill="#b9c3c0"/>
+  <path d="M90 64h420v472H90z" fill="#ebe1c8" stroke="#25343a" stroke-width="4"/>
+  <path d="M108 82h384v436H108z" fill="none" stroke="#c7402f" stroke-width="2"/>
+  <circle cx="300" cy="266" r="99" fill="#c7402f"/>
+  <circle cx="300" cy="266" r="77" fill="none" stroke="#f2e7ca" stroke-width="2"/>
+  <path d="M265 263q12-12 24 0v9q-12 11-24 0zm46 0q12-12 24 0v9q-12 11-24 0z" fill="#f2e7ca"/>
+  <path d="M278 301q22 15 44 0" fill="none" stroke="#f2e7ca" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#c7402f" stroke-width="5">
+    <path d="M300 137v-22m0 302v-22M171 266h-22m280 0h-22m-198-91-16-16m198 198-16-16m0-166 16-16m-198 198 16-16"/>
+  </g>
+  <path d="M409 124a48 48 0 1 0 50 76 41 41 0 1 1-50-76z" fill="#25343a"/>
+  <path d="m185 390 20 39 43 6-31 30 7 43-39-21-38 21 7-43-31-30 43-6z" fill="#d3a857" stroke="#25343a" stroke-width="3"/>
+  <circle cx="417" cy="422" r="7" fill="#c7402f"/>
+  <circle cx="445" cy="448" r="5" fill="#c7402f"/>
+  <text x="300" y="480" fill="#25343a" font-family="monospace" font-size="14" letter-spacing="4" text-anchor="middle">THE SUN / XXI</text>
+</svg>

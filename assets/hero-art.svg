@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720" role="img" aria-labelledby="title desc">
+  <title id="title">BABUL wearable art</title>
+  <desc id="desc">Illustrated black graphic T-shirt with a bold red Oni-inspired mask design.</desc>
+  <rect width="800" height="720" fill="#d9c9b5"/>
+  <circle cx="640" cy="122" r="72" fill="#c7402f"/>
+  <circle cx="640" cy="122" r="52" fill="none" stroke="#f5f0e8" stroke-width="2"/>
+  <path d="M624 122h32M640 106v32" stroke="#f5f0e8" stroke-width="2"/>
+  <path d="M227 110 339 66l61 46 61-46 112 44 100 121-92 72-52-54v365H270V249l-52 54-92-72z" fill="#202321"/>
+  <path d="m337 69 63 48 62-48-34 96h-57z" fill="#333936"/>
+  <path d="M332 267q68-71 140 0l-4 125q-66 89-132 0z" fill="#c7402f"/>
+  <path d="M350 298q20-18 40 0l-5 27q-17 13-34 0zm64 0q20-18 40 0l-5 27q-17 13-34 0z" fill="#f2d8af"/>
+  <path d="m352 284 35-18-8 12 14-4-19 19zm96 0-35-18 8 12-14-4 19 19z" fill="#f3e5c7"/>
+  <path d="m390 346 10-10 10 10-10 11z" fill="#211f1c"/>
+  <path d="M370 375q30 22 60 0l-9 32h-42z" fill="#f5f0e8"/>
+  <path d="m383 376 5 24m12-25v27m12-28-4 25" stroke="#c7402f" stroke-width="3"/>
+  <path d="M320 452h160" stroke="#f5f0e8" stroke-opacity=".44"/>
+  <text x="400" y="492" fill="#f5f0e8" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="8" text-anchor="middle">B A B U L</text>
+  <path d="M270 555h260" stroke="#f5f0e8" stroke-opacity=".18"/>
+  <text x="400" y="584" fill="#dbd0c0" font-family="monospace" font-size="13" letter-spacing="4" text-anchor="middle">WEAR YOUR OWN MYTHOLOGY</text>
+  <path d="m662 478 12 23 25 4-18 18 4 25-23-12-22 12 4-25-18-18 25-4z" fill="#c7402f"/>
+</svg>
